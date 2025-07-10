@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Prowin7/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Prowin7/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
