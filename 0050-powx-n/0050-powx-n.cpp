@@ -1,25 +1,22 @@
 class Solution {
 public:
-double pow(double x,long long n){
-    if(n==0) return 1.0;
-        double result=1;
-        while(n>0){
-            if(n%2==1){
-                result=result*x;
-            }
-            x=x*x;
-            n/=2;
+    double pow(double x, long long n) {
+        double result = 1.0;
+        while (n > 0) {
+            if (n % 2 == 1)
+                result *= x;
+            x *= x;
+            n /= 2;
         }
         return result;
-}
+    }
+
     double myPow(double x, int n) {
-        
-        long long N = n;  
-        
+        long long N = n;  // Convert to long long to safely handle INT_MIN
         if (N < 0) {
             x = 1 / x;
-            N = -N;
+            N = -N;  // safe now
         }
-       return pow(x,N);
+        return pow(x, N);
     }
 };
