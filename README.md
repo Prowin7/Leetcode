@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prowin7/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/Prowin7/Leetcode/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -81,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
