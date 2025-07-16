@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Prowin7/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Prowin7/Leetcode/tree/master/0279-perfect-squares) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2050-count-good-numbers](https://github.com/Prowin7/Leetcode/tree/master/2050-count-good-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Prowin7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0279-perfect-squares](https://github.com/Prowin7/Leetcode/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Prowin7/Leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
