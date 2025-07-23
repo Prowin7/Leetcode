@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Prowin7/Leetcode/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
+| [1170-shortest-common-supersequence](https://github.com/Prowin7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Prowin7/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Array
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Prowin7/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Prowin7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Prowin7/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [1170-shortest-common-supersequence](https://github.com/Prowin7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prowin7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Prowin7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
