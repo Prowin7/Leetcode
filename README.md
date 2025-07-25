@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prowin7/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Prowin7/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/Prowin7/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prowin7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prowin7/Leetcode/tree/master/0494-target-sum) |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
