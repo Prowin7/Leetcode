@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prowin7/Leetcode/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Prowin7/Leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Prowin7/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prowin7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prowin7/Leetcode/tree/master/0494-target-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Prowin7/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Prowin7/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Prowin7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prowin7/Leetcode/tree/master/0494-target-sum) |
@@ -130,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Prowin7/Leetcode/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1646-kth-missing-positive-number](https://github.com/Prowin7/Leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
