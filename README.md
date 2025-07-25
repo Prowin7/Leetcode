@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prowin7/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Prowin7/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Prowin7/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prowin7/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Prowin7/Leetcode/tree/master/0046-permutations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Prowin7/Leetcode/tree/master/0035-search-insert-position) |
 | [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
 | [1646-kth-missing-positive-number](https://github.com/Prowin7/Leetcode/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
