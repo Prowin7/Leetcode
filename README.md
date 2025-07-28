@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Prowin7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/Prowin7/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Prowin7/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Prowin7/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0131-palindrome-partitioning](https://github.com/Prowin7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Prowin7/Leetcode/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Prowin7/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Prowin7/Leetcode/tree/master/0022-generate-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Prowin7/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Prowin7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prowin7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
