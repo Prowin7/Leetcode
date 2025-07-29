@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Prowin7/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Prowin7/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -163,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
