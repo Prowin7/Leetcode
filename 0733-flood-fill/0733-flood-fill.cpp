@@ -3,27 +3,24 @@ public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int r=image.size();
         int c=image[0].size();
-        int originalColor = image[sr][sc];
-        if (originalColor == color) return image;
-        
         queue<pair<int,int>> q;
+        int org=image[sr][sc];
+        if(image[sr][sc]==color) return image;
         q.push({sr,sc});
-        image[sr][sc] = color;  
-        
-        vector<pair<int,int>> dir={{1,0},{0,1},{-1,0},{0,-1}};
-
+        vector<pair<int,int>> dir={{1,0},{-1,0},{0,1},{0,-1}};
         while(!q.empty()){
-            int cr=q.front().first;
-            int cc=q.front().second;
-            q.pop();
-            for(auto d:dir){
-                int row=cr+d.first;
-                int col=cc+d.second;
-                if(row<0||col<0||row==r||col==c||image[row][col]!=originalColor)
+                int cr=q.front().first;
+                int cc=q.front().second;
+                q.pop();
+                image[cr][cc]=color;
+                for(auto it:dir){
+                    int row=cr+it.first;
+                    int col=cc+it.second;
+                    if(row<0||col<0||row==r||col==c||image[row][col]!=org)
                     continue;
-                image[row][col]=color;
-                q.push({row,col});
-            }
+                    q.push({row,col});
+                }
+            
         }
         return image;
     }
