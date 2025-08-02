@@ -1,37 +1,25 @@
 class Solution {
-    vector<vector<int>> dp;
-    // bool solve(int i,int j,string &s){
-    //     if(i>j) return 1;
-    //     if(i==j) return 1;
-    //     if(dp[i][j]!=-1) return dp[i][j];
-    //     if(s[i]==s[j]){
-    //         return dp[i][j]=solve(i+1,j-1,s);
-    //     }
-        
-    //     return dp[i][j]=false;
-        
-    // }
-    bool solve(int left,int right,string &s){
-        while(left<right){
-            if(s[left++]!=s[right--]) return false;
+    int maxLen;
+    int ind;
+    void expand(int left,int right,string &s){
+        while(left>=0 && right<s.size() && s[left]==s[right]){
+            if(right-left+1>maxLen){
+                ind=left;
+                maxLen=right-left+1;
+
+            }
+            left--;
+            right++;
         }
-        return true;
     }
 public:
     string longestPalindrome(string s) {
         int n=s.size();
-        int maxLen=INT_MIN;
-        int ind=0;
-        dp=vector<vector<int>>(n,vector<int>(n,-1));
+        maxLen=0;
+        ind=0;
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(solve(i,j,s)){
-                    if((j-i+1)>maxLen){
-                        maxLen=j-i+1;
-                        ind=i;
-                    }
-                }
-            }
+            expand(i,i,s);  //odd length
+            expand(i,i+1,s); // even length
         }
         return s.substr(ind,maxLen);
     }
