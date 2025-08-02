@@ -1,15 +1,21 @@
 class Solution {
     vector<vector<int>> dp;
-    bool solve(int i,int j,string &s){
-        if(i>j) return 1;
-        if(i==j) return 1;
-        if(dp[i][j]!=-1) return dp[i][j];
-        if(s[i]==s[j]){
-            return dp[i][j]=solve(i+1,j-1,s);
+    // bool solve(int i,int j,string &s){
+    //     if(i>j) return 1;
+    //     if(i==j) return 1;
+    //     if(dp[i][j]!=-1) return dp[i][j];
+    //     if(s[i]==s[j]){
+    //         return dp[i][j]=solve(i+1,j-1,s);
+    //     }
+        
+    //     return dp[i][j]=false;
+        
+    // }
+    bool solve(int left,int right,string &s){
+        while(left<right){
+            if(s[left++]!=s[right--]) return false;
         }
-        
-        return dp[i][j]=false;
-        
+        return true;
     }
 public:
     string longestPalindrome(string s) {
