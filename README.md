@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Prowin7/Leetcode/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/Prowin7/Leetcode/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prowin7/Leetcode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Prowin7/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Prowin7/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Prowin7/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Prowin7/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Prowin7/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Prowin7/Leetcode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prowin7/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Memoization
