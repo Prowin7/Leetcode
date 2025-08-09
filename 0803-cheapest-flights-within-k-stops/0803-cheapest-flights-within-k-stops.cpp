@@ -1,31 +1,21 @@
 class Solution {
 public:
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<vector<pair<int,int>>> adj(n);
-        for(auto it:flights){
-            adj[it[0]].push_back({it[1],it[2]});
-        }
-        queue<pair<int,pair<int,int>>> q;
-        q.push({0,{src,0}});// stops,node,cost
-        vector<int> dis(n,INT_MAX);
-        dis[src]=0;
-        while(!q.empty()){
-            int stops=q.front().first;
-            int node=q.front().second.first;
-            int cost=q.front().second.second;
-            q.pop();
-            if(stops>k) continue;
-            for(auto it:adj[node]){
-                int adjnode=it.first;
-                int rate=it.second;
-                if(cost+rate<dis[adjnode]&&stops<=k){
-                    dis[adjnode]=cost+rate;
-                    q.push({stops+1,{adjnode,cost+rate}});
-                }
+        vector<int> dist(n, 1e9);
+        dist[src] = 0;
 
+        // Run k+1 relaxations
+        for (int i = 0; i <= k; i++) {
+            vector<int> temp = dist; // Copy to avoid using updated values in same round
+            for (auto &it : flights) {
+                int u = it[0], v = it[1], w = it[2];
+                if (dist[u] != 1e9 && dist[u] + w < temp[v]) {
+                    temp[v] = dist[u] + w;
+                }
             }
+            dist = temp;
         }
-        if(dis[dst]==INT_MAX) return -1;
-        else return dis[dst];
+
+        return dist[dst] == 1e9 ? -1 : dist[dst];
     }
 };
