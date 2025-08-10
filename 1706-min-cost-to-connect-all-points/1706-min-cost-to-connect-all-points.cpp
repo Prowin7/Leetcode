@@ -1,4 +1,5 @@
 class Solution {
+    typedef pair<int,int> P; // {weight, node}
 public:
     int minCostConnectPoints(vector<vector<int>>& points) {
         int n = points.size();
@@ -15,32 +16,29 @@ public:
             }
         }
 
-        // Step 2: Prim's MST using dist[][] directly
-        vector<int> minDist(n, INT_MAX);
-        vector<int> vis(n, 0);
-        minDist[0] = 0;
-        int sum = 0;
+        vector<bool> vis(n, false);
+        priority_queue<P, vector<P>, greater<P>> pq; 
 
-        for (int i = 0; i < n; i++) {
-            // Find unvisited node with smallest minDist
-            int u = -1;
-            for (int j = 0; j < n; j++) {
-                if (!vis[j] && (u == -1 || minDist[j] < minDist[u])) {
-                    u = j;
-                }
-            }
+        pq.push({0, 0}); // Start with node 0 and cost 0
+        int totalWeight = 0;
 
-            vis[u] = 1;
-            sum += minDist[u];
+        while (!pq.empty()) {
+            auto [wt, u] = pq.top();
+            pq.pop();
 
-            // Update distances for remaining nodes
+            if (vis[u]) continue; // Skip already visited nodes
+
+            vis[u] = true;
+            totalWeight += wt;
+
+            // Instead of adj[u], use dist[u] to add neighbors
             for (int v = 0; v < n; v++) {
                 if (!vis[v]) {
-                    minDist[v] = min(minDist[v], dist[u][v]);
+                    pq.push({dist[u][v], v});
                 }
             }
         }
 
-        return sum;
+        return totalWeight;
     }
 };
