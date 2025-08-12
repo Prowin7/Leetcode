@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prowin7/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Prowin7/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prowin7/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Prowin7/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Prowin7/Leetcode/tree/master/0039-combination-sum) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prowin7/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Prowin7/Leetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Prowin7/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prowin7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0392-is-subsequence) |
