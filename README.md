@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Prowin7/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/Prowin7/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Prowin7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1036-rotting-oranges](https://github.com/Prowin7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prowin7/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/Prowin7/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Prowin7/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Prowin7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
 ## Memoization
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Prowin7/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Prowin7/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Prowin7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 ## Sliding Window
 |  |
 | ------- |
