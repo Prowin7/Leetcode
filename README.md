@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/Prowin7/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prowin7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Prowin7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prowin7/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/Prowin7/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prowin7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Prowin7/Leetcode/tree/master/0647-palindromic-substrings) |
