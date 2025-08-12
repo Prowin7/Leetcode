@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prowin7/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prowin7/Leetcode/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Prowin7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0075-sort-colors](https://github.com/Prowin7/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prowin7/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prowin7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Prowin7/Leetcode/tree/master/0090-subsets-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Prowin7/Leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Prowin7/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prowin7/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prowin7/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prowin7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prowin7/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Prowin7/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prowin7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Prowin7/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prowin7/Leetcode/tree/master/0287-find-the-duplicate-number) |
