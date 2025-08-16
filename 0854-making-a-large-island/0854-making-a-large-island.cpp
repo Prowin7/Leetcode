@@ -1,10 +1,10 @@
 class DisjointSet{
-   public:
+    public:
     vector<int> parent,size;
     DisjointSet(int n){
-        parent.resize(n);
-        size.resize(n,1);
-        for(int i=0;i<n;i++){
+        parent.resize(n+1);
+        size.resize(n+1,1);
+        for(int i=0;i<=n;i++){
             parent[i]=i;
         }
     }
@@ -13,71 +13,69 @@ class DisjointSet{
         return parent[node]=find(parent[node]);
     }
     void unionSize(int u,int v){
-        int par_u=find(u);
-        int par_v=find(v);
-        if(par_u == par_v) return; 
-        if(size[par_u]<size[par_v]){
-            parent[par_u]=par_v;
-            size[par_v]+=size[par_u];
+        int pu=find(u);
+        int pv=find(v);
+        if(pu==pv) return;
+        if(size[pu]<size[pv]){
+            parent[pu]=pv;
+            size[pv]+=size[pu];
         }
         else{
-            parent[par_v]=par_u;
-            size[par_u]+=size[par_v];
+            parent[pv]=pu;
+            size[pu]+=size[pv];
         }
     }
 };
-
 class Solution {
 public:
     int largestIsland(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
+        int r=grid.size();
+        int c=grid[0].size();
+        DisjointSet ds(r*c);
         vector<pair<int,int>> dir={{1,0},{0,1},{-1,0},{0,-1}};
-        DisjointSet ds(n*m);
-        // DSU FOR MAKING ISLANDS
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        // dsu of 1's
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
                 if(grid[i][j]==1){
-                    int node=i*m+j;
+                    int node=i*c+j;
                     for(auto d:dir){
                         int row=i+d.first;
                         int col=j+d.second;
-                        if(row>=0 && col>=0 && row<n&& col<m && grid[row][col]==1){
-                            int neighbor=row*m+col;
+                        if(row>=0 && col>=0 && row<r && col<c && grid[row][col]==1){
+                            int neighbor=row*c+col;
                             ds.unionSize(node,neighbor);
                         }
                     }
                 }
             }
         }
-        // try flipping all zeroes
+
+        // try all 0's
         int ans=0;
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
                 if(grid[i][j]==0){
-                    unordered_set<int> uniqueParent;
+                    unordered_set<int> uniqueParents;
                     int cap=1;
                     for(auto d:dir){
                         int row=i+d.first;
                         int col=j+d.second;
-                        if(row>=0&&col>=0 && row<n && col<m && grid[row][col]==1){
-                            int p=ds.find(row*m+col);
-                            if(!uniqueParent.count(p)){
+                        if(row>=0 && col>=0 && row<r && col<c && grid[row][col]==1){
+                            int p=ds.find(row*c+col);
+                            if(!uniqueParents.count(p)){
                                 cap+=ds.size[p];
-                                uniqueParent.insert(p);
+                                uniqueParents.insert(p);
                             }
                         }
                     }
-                    ans=max(ans,cap);
+                    ans=max(ans,cap);   
                 }
-
             }
         }
-        // edge cases
-        for(int i=0;i<n*m;i++){
+        for(int i=0;i<r*c;i++){
             if(ds.find(i)==i) ans=max(ans,ds.size[i]);
         }
-        if (ans == 0) return 1;
+        if(ans==0) return 1;
         return ans;
     }
 };
