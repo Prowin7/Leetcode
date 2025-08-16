@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Prowin7/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Prowin7/Leetcode/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Prowin7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prowin7/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0941-sort-array-by-parity](https://github.com/Prowin7/Leetcode/tree/master/0941-sort-array-by-parity) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Prowin7/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prowin7/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Prowin7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prowin7/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Prowin7/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prowin7/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prowin7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Prowin7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Prowin7/Leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Prowin7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prowin7/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Prowin7/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Prowin7/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Prowin7/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prowin7/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Prowin7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Prowin7/Leetcode/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Prowin7/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Prowin7/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Prowin7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Prowin7/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prowin7/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/Prowin7/Leetcode/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Prowin7/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Prowin7/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Prowin7/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
