@@ -1,23 +1,24 @@
 class Solution {
-    int func(int i,int left,vector<int>& coins){
-        if(left==0) return 0;
-        if(i==coins.size()) return INT_MAX;
-        if(dp[i][left]!=-1) return dp[i][left];
-        int notPick=func(i+1,left,coins);
+    vector<vector<int>> dp;
+    int func(int i,int amount,vector<int>&coins){
+        if(amount==0) return 0;
+        if(i>=coins.size()) return INT_MAX;
+        if(dp[i][amount]!=-1) return dp[i][amount];
+        
         int pick=INT_MAX;
-        if(coins[i]<=left){
-            int res=func(i,left-coins[i],coins);
+        if(amount-coins[i]>=0){
+            int res=func(i,amount-coins[i],coins);
             if(res!=INT_MAX)
             pick=1+res;
         }
-        return dp[i][left]=min(pick,notPick);
+        int notPick=func(i+1,amount,coins);
+        return dp[i][amount] = min(pick,notPick);
     }
 public:
-vector<vector<int>> dp;
     int coinChange(vector<int>& coins, int amount) {
-        dp=vector<vector<int>> (coins.size()+1,vector<int>(amount+1,-1));
-
-        int res=func(0,amount,coins);
-        return (res==INT_MAX)?-1:res;
+        int n=coins.size();
+        dp=vector<vector<int>>(n,vector<int>(amount+1,-1));
+        if(func(0,amount,coins)!=INT_MAX) return func(0,amount,coins);
+        return -1;
     }
 };
