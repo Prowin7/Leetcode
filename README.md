@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Prowin7/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Prowin7/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Prowin7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Prowin7/Leetcode/tree/master/0283-move-zeroes) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Prowin7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Prowin7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prowin7/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
