@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Prowin7/Leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Prowin7/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Prowin7/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prowin7/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Prowin7/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Prowin7/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Prowin7/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prowin7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Prowin7/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prowin7/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
