@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Prowin7/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Prowin7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/Prowin7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Prowin7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prowin7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prowin7/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Prowin7/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Prowin7/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Prowin7/Leetcode/tree/master/0047-permutations-ii) |
 | [0063-unique-paths-ii](https://github.com/Prowin7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Prowin7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Prowin7/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prowin7/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prowin7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Prowin7/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Prowin7/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Prowin7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Prowin7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/Prowin7/Leetcode/tree/master/0542-01-matrix) |
