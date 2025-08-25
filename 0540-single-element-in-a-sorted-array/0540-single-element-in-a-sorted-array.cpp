@@ -1,10 +1,19 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int ans=0;
-        for(auto it:nums){
-            ans^=it;
+        int lo=0;
+        int hi=nums.size()-1;
+        while(hi-lo>1){
+            int mid=lo+(hi-lo)/2;
+            if (mid % 2 == 1) mid--;
+            if(nums[mid]==nums[mid+1]){
+               lo=mid+2;
+            }
+            else{
+                hi=mid;
+            }
         }
-        return ans;
+        if (lo == hi) return nums[lo];
+        return nums[hi];
     }
 };
