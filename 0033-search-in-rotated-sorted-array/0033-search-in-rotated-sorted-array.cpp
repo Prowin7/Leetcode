@@ -20,8 +20,8 @@ class Solution {
             else hi = mid - 1;
         }
         // Check remaining elements safely
-        if (lo >= 0 && lo < nums.size() && nums[lo] == target) return lo;
-        if (hi >= 0 && hi < nums.size() && nums[hi] == target) return hi;
+        if (lo >= 0 && nums[lo] == target) return lo;
+        if (hi >= 0 && nums[hi] == target) return hi;
         return -1;
     }
 
