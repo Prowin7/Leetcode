@@ -15,6 +15,6 @@ public:
         }
         if(nums[lo]-(lo+1)>=k) return k+lo;
         if(nums[hi]-(hi+1)>=k) return k+hi;
-        return nums[n-1]+(k-(nums[n-1]-n));
+        return  n+k;
     }
 };
