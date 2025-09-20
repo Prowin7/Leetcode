@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Prowin7/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2350-find-closest-number-to-zero](https://github.com/Prowin7/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3952-trionic-array-i](https://github.com/Prowin7/Leetcode/tree/master/3952-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
