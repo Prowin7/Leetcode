@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prowin7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Prowin7/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prowin7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Prowin7/Leetcode/tree/master/0207-course-schedule) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prowin7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Prowin7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Prowin7/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prowin7/Leetcode/tree/master/0210-course-schedule-ii) |
@@ -457,4 +459,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Prowin7/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Prowin7/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prowin7/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prowin7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Prowin7/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
