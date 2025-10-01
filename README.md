@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prowin7/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Prowin7/Leetcode/tree/master/2050-count-good-numbers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Prowin7/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Prowin7/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Prowin7/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Prowin7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3952-trionic-array-i](https://github.com/Prowin7/Leetcode/tree/master/3952-trionic-array-i) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Prowin7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bitmask
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prowin7/Leetcode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
