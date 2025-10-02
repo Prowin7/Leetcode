@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Prowin7/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Prowin7/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Prowin7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Prowin7/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Prowin7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
