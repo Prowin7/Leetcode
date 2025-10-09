@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prowin7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prowin7/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prowin7/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Prowin7/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Prowin7/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Prowin7/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Prowin7/Leetcode/tree/master/0213-house-robber-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prowin7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Prowin7/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Prowin7/Leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Prowin7/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prowin7/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Prowin7/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Prowin7/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Prowin7/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Prowin7/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prowin7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prowin7/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prowin7/Leetcode/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Prowin7/Leetcode/tree/master/0274-h-index) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Prowin7/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 ## Binary Search
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Prowin7/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Prowin7/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prowin7/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prowin7/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Stack
