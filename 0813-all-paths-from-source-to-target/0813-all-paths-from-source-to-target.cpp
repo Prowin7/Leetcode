@@ -1,30 +1,26 @@
 class Solution {
     vector<vector<int>> ans;
-    int n;
-    vector<int> visited;
-    void backtrack(int node,vector<vector<int>>&graph,vector<int> &path){
-        path.push_back(node);
-        if(node==graph.size()-1){
+    
+    void backtrack(int node, vector<vector<int>>& graph, vector<int>& path) {
+        // If we reached the last node, save the current path
+        if (node == graph.size() - 1) {
             ans.push_back(path);
-            path.pop_back();
-            return ;
+            return;
         }
-        visited[node] = true;
-        for(auto neigh:graph[node]){
-            if(!visited[neigh]){
-                backtrack(neigh,graph,path);
-            }
+
+        // Explore all neighbors
+        for (auto neigh : graph[node]) {
+            path.push_back(neigh);
+            backtrack(neigh, graph, path);
+            path.pop_back(); // Backtrack
         }
-        visited[node]=false;
-        path.pop_back();
     }
 
 public:
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
-        n = graph.size();
-        visited = vector<int>(n, false);
         vector<int> path;
-        backtrack(0, graph,path);
+        path.push_back(0); // start from node 0
+        backtrack(0, graph, path);
         return ans;
     }
 };
