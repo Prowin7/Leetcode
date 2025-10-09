@@ -1,25 +1,23 @@
 class Solution {
-public:
-void func(int start,int sum,int target,vector<int>& nums,vector<int>& vec,vector<vector<int>>& ans){
-    if(sum==target) {
-        ans.push_back(vec);
-        return;
+    vector<vector<int>> ans;
+    void backtrack(int i, int target,vector<int>& candidates,vector<int>&comb){
+        if(target==0){
+            ans.push_back(comb);
+            return ;
+        }
+        if(i==candidates.size()) return;
+        if(target-candidates[i]>=0){
+            comb.push_back(candidates[i]);
+            backtrack(i,target-candidates[i],candidates,comb);
+            comb.pop_back();
+        }
+        backtrack(i+1,target,candidates,comb);
     }
-    if(sum>target || start>=nums.size()) return;
-    vec.push_back(nums[start]);
-    func(start,sum+nums[start],target,nums,vec,ans);
-    vec.pop_back();
-    func(start+1,sum,target,nums,vec,ans);
-
-
-
-
-}
+public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-    
-        vector<vector<int>> ans;
-        vector<int> vec;
-        func(0,0,target,candidates,vec,ans);
+        int n =candidates.size();
+        vector<int> comb;
+        backtrack(0,target,candidates,comb);
         return ans;
     }
 };
