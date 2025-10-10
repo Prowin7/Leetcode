@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prowin7/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Prowin7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Prowin7/Leetcode/tree/master/0279-perfect-squares) |
+| [0633-sum-of-square-numbers](https://github.com/Prowin7/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0755-reach-a-number](https://github.com/Prowin7/Leetcode/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prowin7/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prowin7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prowin7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Prowin7/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0755-reach-a-number](https://github.com/Prowin7/Leetcode/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Prowin7/Leetcode/tree/master/0792-binary-search) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Prowin7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Prowin7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Prowin7/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Prowin7/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/Prowin7/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Prowin7/Leetcode/tree/master/0941-sort-array-by-parity) |
