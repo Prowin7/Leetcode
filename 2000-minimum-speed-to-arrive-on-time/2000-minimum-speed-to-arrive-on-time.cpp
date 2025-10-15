@@ -1,37 +1,48 @@
 class Solution {
-    bool possible(int speed, vector<int>& dist, double hour) {
+    // Helper function to check if we can finish within 'hour' using speed = k
+    bool possible(int k, const vector<int>& dist, double hour) {
         double time = 0.0;
         int n = dist.size();
 
-        for (int i = 0; i < n; i++) {
-            double t = (double)dist[i] / speed;
+        for (int i = 0; i < n; ++i) {
+            double t = (double)dist[i] / k;
 
-            // For all but the last segment, round up to next integer hour
+            // For all but last segment, we must take the ceiling
             if (i != n - 1)
                 time += ceil(t);
             else
-                time += t; // last segment can be fractional
-        }
+                time += t;
 
+            // Early stop if already exceeding hour
+            if (time > hour)
+                return false;
+        }
         return time <= hour;
     }
 
 public:
     int minSpeedOnTime(vector<int>& dist, double hour) {
-        int left = 1, right = 1e7;
-        int ans = -1;
+        int n = dist.size();
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        // Impossible case: need at least (n - 1) full hours to travel n-1 segments
+        if (hour <= n - 1) return -1;
 
-            if (possible(mid, dist, hour)) {
-                ans = mid;         // mid works, try smaller speed
-                right = mid - 1;
-            } else {
-                left = mid + 1;    // mid too slow, need higher speed
-            }
+        int l = 1;
+        int r = 1e7;  // upper bound for speed
+
+        // Binary search with (r - l > 1) condition
+        while (r - l > 1) {
+            int mid = l + (r - l) / 2;
+
+            if (possible(mid, dist, hour))
+                r = mid;   // mid works, try smaller
+            else
+                l = mid + 1;  // mid too slow, need faster
         }
 
-        return ans;
+        // Check both l and r since the loop stops when r - l == 1
+        if (possible(l, dist, hour)) return l;
+        if (possible(r, dist, hour)) return r;
+        return -1;
     }
 };
