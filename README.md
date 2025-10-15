@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Prowin7/Leetcode/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Prowin7/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Prowin7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Prowin7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prowin7/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Prowin7/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0407-trapping-rain-water-ii](https://github.com/Prowin7/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/Prowin7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Prowin7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Prowin7/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Prowin7/Leetcode/tree/master/0518-coin-change-ii) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Prowin7/Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Prowin7/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Prowin7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prowin7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Prowin7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Prowin7/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prowin7/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Prowin7/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Prowin7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Prowin7/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Prowin7/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Prowin7/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Prowin7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Prowin7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prowin7/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
