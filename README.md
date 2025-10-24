@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/Prowin7/Leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Prowin7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prowin7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3952-trionic-array-i](https://github.com/Prowin7/Leetcode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/Prowin7/Leetcode/tree/master/3956-trionic-array-ii) |
 ## Hash Table
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prowin7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2509-minimize-xor](https://github.com/Prowin7/Leetcode/tree/master/2509-minimize-xor) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prowin7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Biconnected Component
 |  |
 | ------- |
