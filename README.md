@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prowin7/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prowin7/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prowin7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3956-trionic-array-ii](https://github.com/Prowin7/Leetcode/tree/master/3956-trionic-array-ii) |
 ## Array
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Prowin7/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prowin7/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Prowin7/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Prowin7/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Prowin7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prowin7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prowin7/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3451-string-compression-iii](https://github.com/Prowin7/Leetcode/tree/master/3451-string-compression-iii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Prowin7/Leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Backtracking
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Prowin7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prowin7/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2509-minimize-xor](https://github.com/Prowin7/Leetcode/tree/master/2509-minimize-xor) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prowin7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
