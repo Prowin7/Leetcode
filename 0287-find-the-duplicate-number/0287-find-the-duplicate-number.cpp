@@ -1,12 +1,11 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        //binary search
-        int n=nums.size();
-        int left=0;
-        int right=n-1;
-        while(left<right){
-            int mid=(right-left)/2+left;
+        int n = nums.size();
+        int s = 1;
+        int e = n-1;
+        while(e>s){
+            int mid = s+(e-s)/2;
             int cnt=0;
             for(int i=0;i<n;i++){
                 if(nums[i]<=mid){
@@ -14,12 +13,12 @@ public:
                 }
             }
             if(cnt>mid){
-                right=mid;
+                e = mid;
             }
-            else {
-                left=mid+1;
+            else{
+                s = mid+1;
             }
         }
-        return left;
+        return s;
     }
 };
