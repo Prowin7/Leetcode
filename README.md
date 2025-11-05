@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Prowin7/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prowin7/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Prowin7/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Prowin7/Leetcode/tree/master/1617-stone-game-iv) |
 | [2050-count-good-numbers](https://github.com/Prowin7/Leetcode/tree/master/2050-count-good-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prowin7/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prowin7/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Prowin7/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1517-restore-the-array](https://github.com/Prowin7/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Prowin7/Leetcode/tree/master/1617-stone-game-iv) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prowin7/Leetcode/tree/master/0062-unique-paths) |
+| [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Prowin7/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Divide and Conquer
 |  |
