@@ -1,23 +1,15 @@
 class Solution {
 public:
     int minTaps(int n, vector<int>& ranges) {
-        vector<int> startEnd(n+1,0);
-        for(int i=0;i<ranges.size();i++){
-            int start = max(0,i-ranges[i]);
-            int end = min(n,i+ranges[i]);
-            startEnd[start] = max(startEnd[start],end);
-        }
-        int taps = 0;
-        int maxEnd = 0;
-        int curEnd = 0;
-        for(int i=0;i<=n;i++){
-            if(i>maxEnd) return -1;
-            if(i>curEnd){
-                taps++;
-                curEnd = maxEnd;
+        vector<int> dp(n + 1, 1e9);
+        dp[0] = 0;
+        for (int i = 0; i <= n; i++) {
+            int start = max(0, i - ranges[i]);
+            int end = min(n, i + ranges[i]);
+            for (int j = start + 1; j <= end; j++) {
+                dp[j] = min(dp[j], 1 + dp[start]);
             }
-            maxEnd = max(maxEnd,startEnd[i]);
         }
-        return taps;
+        return (dp[n] == 1e9) ? -1 : dp[n];
     }
 };
