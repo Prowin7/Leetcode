@@ -1,29 +1,33 @@
 class Solution {
+    vector<vector<int>> ans;
+    
+    void backtrack(vector<int>& used, vector<int>& cur, vector<int>&nums ){
+        if(cur.size()==nums.size()){
+            ans.push_back(cur);
+            return ;
+        }
+        for(int i =0;i<nums.size();i++){
+            if(used[i]) continue;
+            if (i > 0 && nums[i] == nums[i-1] && !used[i-1])
+                continue;
+
+            used[i] = true;
+            cur.push_back(nums[i]);
+
+            backtrack(used, cur, nums);
+
+            cur.pop_back();
+            used[i] = false;
+        }
+    }
+
 public:
-vector<vector<int>> ans;
-void func(vector<int> &vec,vector<bool> &used,vector<int> &nums){
-    if(vec.size()==nums.size()){
-        ans.push_back(vec);
-        return ;
-    }
-    for(int i=0;i<nums.size();i++){
-        if(used[i]) continue;
-        if(i>0&&nums[i]==nums[i-1]&&!used[i-1]) continue;
-        
- 
-        vec.push_back(nums[i]);
-        used[i]=true;
-        func(vec,used,nums);
-        used[i]=false;
-        vec.pop_back();
-        
-    }
-}
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        vector<int> vec;
+        vector<int> cur;
         sort(nums.begin(),nums.end());
-        vector<bool> used(nums.size()+1,false);
-        func(vec,used,nums);
+        vector<int> used(nums.size()+1,false);
+        backtrack(used, cur, nums);
+        
         return ans;
     }
 };
