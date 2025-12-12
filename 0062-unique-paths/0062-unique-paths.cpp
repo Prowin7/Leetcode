@@ -2,7 +2,7 @@
 class Solution {
     int r,c;
     int func(int i,int j,vector<vector<int>>& ans){
-        if(i<0||j<0||i>r||j>c){
+        if(i<0||j<0||i>=r||j>=c){
             return 0;
         }
         if(i==r-1&&j==c-1) return 1;
@@ -16,7 +16,7 @@ public:
     int uniquePaths(int m, int n) {
         r=m;
         c=n;
-        vector<vector<int>> ans(m+1,vector<int>(n+1,-1));
+        vector<vector<int>> ans(m,vector<int>(n,-1));
         return func(0,0,ans);
     }
 };
