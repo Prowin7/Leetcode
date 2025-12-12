@@ -1,34 +1,24 @@
 class Solution {
-    int r, c;
-    vector<vector<int>> dp;
-
-    int func(int i, int j, vector<vector<int>>& grid) {
-        if (i >= r || j >= c) return 0;
-
-        // If obstacle, no path
-        if (grid[i][j] == 1) return 0;
-
-        // If reached destination
-        if (i == r - 1 && j == c - 1) return 1;
-
-        if (dp[i][j] != -1) return dp[i][j];
-
-        int right = func(i, j + 1, grid);
-        int down  = func(i + 1, j, grid);
-
-        return dp[i][j] = right + down;
-    }
-
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& grid) {
-        r = grid.size();
-        c = grid[0].size();
+        int r = grid.size(), c = grid[0].size();
+        vector<long long> dp(c, 0);
 
-        // If starting cell is blocked
-        if (grid[0][0] == 1) return 0;
+        if (grid[0][0] == 1) return 0;   // start blocked
+        dp[0] = 1;
 
-        dp = vector<vector<int>>(r, vector<int>(c, -1));
+        for (int i = 0; i < r; i++) {
+            for (int j = 0; j < c; j++) {
 
-        return func(0, 0, grid);
+                if (grid[i][j] == 1) {  
+                    dp[j] = 0;          // obstacle = no paths
+                }
+                else if (j > 0) {
+                    dp[j] += dp[j - 1]; // from left + from up(dp[j])
+                }
+            }
+        }
+
+        return dp[c - 1];
     }
 };
