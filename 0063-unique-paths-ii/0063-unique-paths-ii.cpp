@@ -1,19 +1,34 @@
 class Solution {
+    int r, c;
     vector<vector<int>> dp;
-public:
-    int path(int m, int n, vector<vector<int>>& obstacleGrid) {
-        if (m < 0 || n < 0) return 0; // Out of bounds
-        if (obstacleGrid[m][n] == 1) return 0; // Obstacle present
-        if (m == 0 && n == 0) return 1; // Reached start position
-        if(dp[m][n]!=-1) return dp[m][n];
 
-        return dp[m][n]=path(m - 1, n, obstacleGrid) + path(m, n - 1, obstacleGrid);
+    int func(int i, int j, vector<vector<int>>& grid) {
+        if (i >= r || j >= c) return 0;
+
+        // If obstacle, no path
+        if (grid[i][j] == 1) return 0;
+
+        // If reached destination
+        if (i == r - 1 && j == c - 1) return 1;
+
+        if (dp[i][j] != -1) return dp[i][j];
+
+        int right = func(i, j + 1, grid);
+        int down  = func(i + 1, j, grid);
+
+        return dp[i][j] = right + down;
     }
 
-    int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
-        int m = obstacleGrid.size();
-        int n = obstacleGrid[0].size();
-        dp=vector<vector<int>>(m+1,vector<int>(n+1,-1));
-        return path(m - 1, n - 1, obstacleGrid);
+public:
+    int uniquePathsWithObstacles(vector<vector<int>>& grid) {
+        r = grid.size();
+        c = grid[0].size();
+
+        // If starting cell is blocked
+        if (grid[0][0] == 1) return 0;
+
+        dp = vector<vector<int>>(r, vector<int>(c, -1));
+
+        return func(0, 0, grid);
     }
 };
