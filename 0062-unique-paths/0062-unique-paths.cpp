@@ -1,18 +1,22 @@
+
 class Solution {
-    vector<vector<int>> dp;
-    int r;
-    int c;
-    int func(int i,int j){
+    int r,c;
+    int func(int i,int j,vector<vector<int>>& ans){
+        if(i<0||j<0||i>r||j>c){
+            return 0;
+        }
         if(i==r-1&&j==c-1) return 1;
-        if(i>=r||j>=c) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        return dp[i][j]=func(i+1,j)+func(i,j+1);
+        if(ans[i][j]!=-1) return ans[i][j];
+        int right = func(i,j+1,ans);
+        
+        int down = func(i+1,j,ans);
+        return ans[i][j] = right+down;
     }
 public:
     int uniquePaths(int m, int n) {
         r=m;
         c=n;
-       dp=vector<vector<int>>(m,vector<int>(n,-1));
-       return func(0,0); 
+        vector<vector<int>> ans(m+1,vector<int>(n+1,-1));
+        return func(0,0,ans);
     }
 };
