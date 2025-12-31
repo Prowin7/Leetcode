@@ -1,24 +1,24 @@
+
 class Solution {
-    vector<vector<int>> dp;
-    int func(int i,int amount,vector<int>&coins){
+    int solve(int amount, vector<int>&coins, vector<int>& dp){
         if(amount==0) return 0;
-        if(i>=coins.size()) return INT_MAX;
-        if(dp[i][amount]!=-1) return dp[i][amount];
-        
-        int pick=INT_MAX;
-        if(amount-coins[i]>=0){
-            int res=func(i,amount-coins[i],coins);
-            if(res!=INT_MAX)
-            pick=1+res;
+        if(amount<0) return INT_MAX;
+        if(dp[amount]!=-1) return dp[amount];
+        int mini=INT_MAX;
+        for(int i=0;i<coins.size();i++){
+           int res= solve(amount-coins[i],coins,dp);
+           if(res!=INT_MAX)
+            mini = min(mini,1+res);
         }
-        int notPick=func(i+1,amount,coins);
-        return dp[i][amount] = min(pick,notPick);
+        return dp[amount] = mini;
     }
+
 public:
     int coinChange(vector<int>& coins, int amount) {
-        int n=coins.size();
-        dp=vector<vector<int>>(n,vector<int>(amount+1,-1));
-        if(func(0,amount,coins)!=INT_MAX) return func(0,amount,coins);
-        return -1;
+        int n = coins.size();
+        vector<int> dp(amount+1,-1);
+        
+          int ans = solve(amount, coins, dp);
+        return (ans == INT_MAX) ? -1 : ans;
     }
 };
