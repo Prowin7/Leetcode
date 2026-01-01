@@ -1,7 +1,7 @@
 class Solution {
     int n,m;
     vector<vector<int>> dp;
-    int solve(int i,int j,string t1,string t2){
+    int solve(int i,int j,string &t1,string &t2){
         if(i>=n||j>=m) return 0;
         if(dp[i][j]!=-1) return dp[i][j];
         if(t1[i]==t2[j]){
