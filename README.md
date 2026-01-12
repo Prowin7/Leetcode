@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Prowin7/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Prowin7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Prowin7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prowin7/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/Prowin7/Leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Prowin7/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Prowin7/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Prowin7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Prowin7/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1325-path-with-maximum-probability](https://github.com/Prowin7/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Prowin7/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -718,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/Prowin7/Leetcode/tree/master/1617-stone-game-iv) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Prowin7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
