@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Prowin7/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Prowin7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Prowin7/Leetcode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prowin7/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Prowin7/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Prowin7/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Prowin7/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Prowin7/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Prowin7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/Prowin7/Leetcode/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prowin7/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prowin7/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Prowin7/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prowin7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Prowin7/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prowin7/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prowin7/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
