@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Prowin7/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Prowin7/Leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Prowin7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prowin7/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Prowin7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Prowin7/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prowin7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prowin7/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Simulation
 |  |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Prowin7/Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2509-minimize-xor](https://github.com/Prowin7/Leetcode/tree/master/2509-minimize-xor) |
 | [3195-separate-black-and-white-balls](https://github.com/Prowin7/Leetcode/tree/master/3195-separate-black-and-white-balls) |
