@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Prowin7/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1451-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Prowin7/Leetcode/tree/master/1451-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Prowin7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prowin7/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prowin7/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prowin7/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Prowin7/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/Prowin7/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Prowin7/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prowin7/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prowin7/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Prowin7/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
