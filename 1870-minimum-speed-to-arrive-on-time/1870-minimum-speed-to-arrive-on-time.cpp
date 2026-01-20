@@ -3,17 +3,12 @@ class Solution {
         double time = 0.0;
         int n = dist.size();
 
-        for (int i = 0; i < n; i++) {
-            double t = (double)dist[i] / k;
+        for (int i = 0; i < n - 1; i++) {
+             time += (dist[i] + k - 1) / k;  // integer ceil
+            }
+        time += (double)dist[n - 1] / k;   // exact fractional time
 
-            if (i != n - 1)
-                time += ceil(t);
-            else
-                time += t;
-
-            if (time > hour) return false;
-        }
-        return true;
+            return time<=hour;
     }
 
 public:
