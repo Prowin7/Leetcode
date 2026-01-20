@@ -1,16 +1,11 @@
 class Solution {
     bool binary(long long s, long long e, int target) {
-        while (e - s > 1) {
-            long long mid = s + (e - s) / 2;
-            if (mid * mid <= target)
-                s = mid;
-            else
-                e = mid;
+        while(s<=e){
+            long long mid = s+(e-s)/2;
+            if(mid*mid==target) return true;
+            else if(mid*mid<target) s = mid+1;
+            else e = mid-1;
         }
-        if (s * s == target)
-            return true;
-        if (e * e == target)
-            return false;
         return false;
     }
 
