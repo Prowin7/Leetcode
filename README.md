@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/Prowin7/Leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1753-path-with-minimum-effort](https://github.com/Prowin7/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prowin7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prowin7/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1753-path-with-minimum-effort](https://github.com/Prowin7/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
