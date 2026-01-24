@@ -1,34 +1,36 @@
 class Solution {
-public: 
-int binarySearch(vector<int> &ans,int target){
-    int n=ans.size();
-    int left=0;
-    int right=n-1;
-    while(left<=right){
-        int mid=left+(right-left)/2;
-        if(ans[mid]==target){
-            return mid;
-        }
-        if(ans[mid]>target){
-            right=mid-1;
-        }
-        else {
-            left=mid+1;
-        }
-      
-    }
-      return left;
-}
-    int lengthOfLIS(vector<int>& nums) {
-        vector<int> ans;
-        
-        for(int i=0;i<nums.size();i++){
-            if(ans.empty()||ans.back()<nums[i]){
-                ans.push_back(nums[i]);
+    int binary(int target, vector<int>&ans){
+        int l = 0;
+        int r = ans.size();
+        while(l<=r){
+            int mid = l+(r-l)/2;
+            if(target==ans[mid]){
+                return mid;
+            }
+            else if(target>ans[mid]){
+                l=mid+1;
             }
             else{
-                int ind=binarySearch(ans,nums[i]);
-                ans[ind]=nums[i];
+                r=mid-1;
+            }
+        }
+        return l;
+    }
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> ans;
+        ans.push_back(nums[0]);
+        
+        int ind = 0;
+        for(int i=0;i<n;i++){
+            if(!ans.empty() && nums[i]>ans.back()){
+                ans.push_back(nums[i]);
+
+            }
+            else {
+                ind = binary(nums[i],ans);
+                ans[ind] = nums[i];
             }
         }
         return ans.size();
