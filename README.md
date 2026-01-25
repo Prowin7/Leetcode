@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Prowin7/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prowin7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Prowin7/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prowin7/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Prowin7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prowin7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prowin7/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prowin7/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prowin7/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prowin7/Leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prowin7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Prowin7/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Heap (Priority Queue)
 |  |
