@@ -1,18 +1,16 @@
 class Solution {
 public:
+
     int findPeakElement(vector<int>& nums) {
-        int lo = 0, hi = nums.size() - 1;
-        while (hi - lo > 1) {
-            int mid = lo + (hi - lo) / 2;
-            
-            // Check bounds first
-            if (mid + 1 < nums.size() && nums[mid] < nums[mid + 1]) {
-                lo = mid + 1; // slope going up, move right
-            } else {
-                hi = mid;     // slope going down, move left
-            }
+        int n=nums.size();
+        int s=0;
+        int e=n-1;
+        while(s<e){
+            int mid=s+(e-s)/2;
+            if(nums[mid]>nums[mid+1]) e=mid;
+            else s=mid+1;
+
         }
-        // Final comparison between remaining elements
-        return (nums[lo] < nums[hi]) ? hi : lo;
+        return s;
     }
 };
