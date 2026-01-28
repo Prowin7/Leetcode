@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Prowin7/Leetcode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prowin7/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Prowin7/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Prowin7/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3956-trionic-array-ii](https://github.com/Prowin7/Leetcode/tree/master/3956-trionic-array-ii) |
 ## Array
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Prowin7/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2498-frog-jump-ii](https://github.com/Prowin7/Leetcode/tree/master/2498-frog-jump-ii) |
 | [2551-apply-operations-to-an-array](https://github.com/Prowin7/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Prowin7/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Prowin7/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Prowin7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3952-trionic-array-i](https://github.com/Prowin7/Leetcode/tree/master/3952-trionic-array-i) |
