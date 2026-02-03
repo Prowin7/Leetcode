@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prowin7/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1517-restore-the-array](https://github.com/Prowin7/Leetcode/tree/master/1517-restore-the-array) |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prowin7/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1617-stone-game-iv](https://github.com/Prowin7/Leetcode/tree/master/1617-stone-game-iv) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Prowin7/Leetcode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prowin7/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Prowin7/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prowin7/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Prowin7/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Prowin7/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Prowin7/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Prowin7/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1184-car-pooling](https://github.com/Prowin7/Leetcode/tree/master/1184-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Prowin7/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Prowin7/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Prowin7/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prowin7/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
