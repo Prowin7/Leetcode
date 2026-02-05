@@ -758,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Prowin7/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1153-product-sales-analysis-i](https://github.com/Prowin7/Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/Prowin7/Leetcode/tree/master/1258-article-views-i) |
+| [1280-students-and-examinations](https://github.com/Prowin7/Leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Prowin7/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Prowin7/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1661-average-time-of-process-per-machine](https://github.com/Prowin7/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
