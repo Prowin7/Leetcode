@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1522-stone-game-iii](https://github.com/Prowin7/Leetcode/tree/master/1522-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Prowin7/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1617-stone-game-iv](https://github.com/Prowin7/Leetcode/tree/master/1617-stone-game-iv) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prowin7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Prowin7/Leetcode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/Prowin7/Leetcode/tree/master/2054-two-best-non-overlapping-events) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Prowin7/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Prowin7/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/Prowin7/Leetcode/tree/master/1517-restore-the-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prowin7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Prowin7/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1771-maximize-palindrome-length-from-subsequences](https://github.com/Prowin7/Leetcode/tree/master/1771-maximize-palindrome-length-from-subsequences) |
 | [3195-separate-black-and-white-balls](https://github.com/Prowin7/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Prowin7/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Prowin7/Leetcode/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prowin7/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Prowin7/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Prowin7/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
